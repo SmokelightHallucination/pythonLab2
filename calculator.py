@@ -13,6 +13,7 @@ def division(a, b):
 def remainder(a, b):
     return a % b
 
+
 def choice(num):
     switch = {
         '1': addition,
