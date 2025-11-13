@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f0f6e67-856e-4881-985d-0c2ea5454bc4" name="Changes" comment="First two exercises">
-      <change afterPath="$PROJECT_DIR$/guessAnumber.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursiveSum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GCD.py" beforeDir="false" afterPath="$PROJECT_DIR$/GCD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/guessAnumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/guessAnumber.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recursiveSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursiveSum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +85,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762977436967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First two exercises">
+      <option name="closed" value="true" />
+      <created>1763051561216</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763051561216</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
