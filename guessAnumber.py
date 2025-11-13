@@ -16,7 +16,6 @@ def guess(hiddenNumber):
         else:
             print("Игрок 2, твоё число меньше, чем загаданное")
         guessedNumber = int(input("Попробуй ещё раз: "))
-
     print("Поздравляю! Ты угадал число!")
 
 guess(hiddenNumber)
