@@ -4,5 +4,6 @@ def recursive_sum(n):
     else:
         return n + recursive_sum(n - 1)
 
+
 number = int(input("Введите число: "))
 print("Сумма чисел от 1 до", number, "равна", recursive_sum(number))
